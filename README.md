@@ -24,7 +24,7 @@ I'm Eshaan Dabasiya a Full Stack Web Developer Enthusiast. I Spend most of time 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/im3dabasia/im3dabasia/blob/master/resumes/Eshaan_Dabasiya_Resume_V1.pdf)
+- :paperclip: [My Resume/CV](https://github.com/im3dabasia/im3dabasia/blob/master/resume/Eshaan_Dabasiya_Resume_V1.pdf)
 - :email: eshaandabasiya@gmail.com
 
 
